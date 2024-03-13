@@ -3511,4 +3511,20 @@ button.small,
 		text-align: left;
 	}
 
+
+}
+
+.info {
+	margin-bottom: 0;
+
+
+}
+
+.info+ul {
+	margin-left: 2em;
+}
+
+.rotate-90 {
+	transform: rotate(-90deg);
+
 }
