@@ -2805,7 +2805,7 @@ button.small,
 /* Banner */
 
 #banner {
-	background-image: url("../../images/bannerscout_127Agapo.JPG");
+	background-image: url("../../images/banner_scout_orignal.jpg");
 	background-position: center center;
 	background-size: cover;
 	height: 28em;
@@ -3522,9 +3522,4 @@ button.small,
 
 .info+ul {
 	margin-left: 2em;
-}
-
-.rotate-90 {
-	transform: rotate(-90deg);
-
 }
