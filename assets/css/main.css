@@ -2808,7 +2808,7 @@ button.small,
 	background-image: url("../../images/banner_scout_orignal.jpg");
 	background-position: center center;
 	background-size: cover;
-	height: 28em;
+	height: 50em;
 	text-align: center;
 	position: relative;
 }
@@ -2959,7 +2959,7 @@ button.small,
 	/* Banner */
 
 	#banner {
-		height: 24em;
+		height: 50em;
 	}
 
 }
@@ -3008,7 +3008,7 @@ button.small,
 	/* Banner */
 
 	#banner {
-		height: 20em;
+		height: 50em;
 	}
 
 	/* Wrapper */
@@ -3133,7 +3133,7 @@ button.small,
 	/* Banner */
 
 	#banner {
-		height: 20em;
+		height: 30em;
 	}
 
 	#banner header h2 {
@@ -3429,7 +3429,7 @@ button.small,
 	/* Banner */
 
 	#banner {
-		height: 18em;
+		height: 30em;
 	}
 
 	/* Wrapper */
