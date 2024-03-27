@@ -215,7 +215,17 @@ a:hover {
 	border-bottom-color: transparent;
 }
 
-strong,
+a.badge {
+	border-bottom: none;
+
+}
+
+
+a.badge:hover h3 {
+	color: magenta;
+
+}
+
 b {
 	font-weight: 600;
 }
@@ -3523,4 +3533,8 @@ button.small,
 
 .info+ul {
 	margin-left: 2em;
+}
+
+.text-center {
+	text-align: center;
 }
