@@ -205,13 +205,13 @@ a {
 	-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 	-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 	transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-	color: #355e3b;
+	color: #000000;
 	text-decoration: none;
 	border-bottom: dotted 1px;
 }
 
 a:hover {
-	color: #355e3b;
+	color: magenta;
 	border-bottom-color: transparent;
 }
 
@@ -2920,14 +2920,11 @@ button.small,
 }
 
 #footer a {
-	color: inherit;
+
 	border-bottom-color: rgba(71, 71, 71, 0.25);
 }
 
-#footer a:hover {
-	color: #355e3b;
-	border-bottom-color: transparent;
-}
+
 
 #footer .container {
 	margin-bottom: 4em;
